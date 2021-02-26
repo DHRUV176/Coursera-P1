@@ -27,7 +27,7 @@ echo "<script>window.location.href='index.php'</script>";
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>PHP CRUD Operations using PDO Extension </title>
+    <title id="9aca5280" >PHP CRUD Operations using PDO Extension </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
